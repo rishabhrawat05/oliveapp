@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+  --font-inter: "Inter", sans-serif; 
+}
+
+:root{
+  background-color: #fefeff;
+  font-family: 'Inter', sans-serif;
+}
+
+#primary-div{
+  background-color: #f4faf7;
+  border-color: #e5e5e5;
+}
+
+#get-olive{
+  background-color: #253713;
+}
